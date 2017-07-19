@@ -1,0 +1,27 @@
+{
+  "name": "yaasqueen",
+  "version": "0.0.1",
+  "author": "Craig Spence <craigspence0@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phenomnomnominal/yaasqueen"
+  },
+  "bugs": {
+    "url": "https://github.com/phenomnomnominal/yaasqueen",
+    "email": "craigspence0@gmail.com"
+  },
+  "description": "Touchbar task runner",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron-store": "^1.2.0"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "~1.6.2",
+    "electron-debug": "^1.2.0"
+  }
+}
